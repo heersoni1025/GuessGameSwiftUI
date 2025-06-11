@@ -3,7 +3,7 @@
 
 A fun and interactive iOS app where users guess the correct animal image — Dog, Cat, or Fox. Built using SwiftUI.
 
-<img height="500" width="350" alt="Screenshot 2025-06-11 at 5 56 52 PM" src="https://github.com/user-attachments/assets/72804f55-50a8-46bd-b223-d789be75f2cb" />
+<img width="350" alt="Screenshot 2025-06-11 at 5 56 52 PM" src="https://github.com/user-attachments/assets/72804f55-50a8-46bd-b223-d789be75f2cb" />
 
 
 <img width="350" alt="Screenshot 2025-06-11 at 5 57 14 PM" src="https://github.com/user-attachments/assets/29c46771-1b84-4fda-b25e-f3ce4e17897b" />
