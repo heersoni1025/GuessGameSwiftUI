@@ -12,6 +12,10 @@ A fun and interactive iOS app where users guess the correct animal image — Dog
 <img width="369" alt="Screenshot 2025-06-11 at 5 57 42 PM" src="https://github.com/user-attachments/assets/838eeb92-9f6c-4d16-873d-476d2764cda7" />
 
 
+<img width="393" alt="Screenshot 2025-06-11 at 6 12 18 PM" src="https://github.com/user-attachments/assets/e1f2c7e2-d456-4dc5-9e79-2fcb2940581a" />
+
+
+
 ---
 
 ## 🚀 Features
@@ -20,14 +24,16 @@ A fun and interactive iOS app where users guess the correct animal image — Dog
 - Randomized correct answers
 - Score tracking with real-time feedback
 - Animal image buttons (Dog, Cat, Fox)
+- Custom app icon and home screen title
 
 ---
 
 ## 📱 Screens
 
-- Title & Subtitle update after every answer
-- Three buttons with images
-- Score displayed at the top right
+- Title & subtitle update after every guess
+- Three tappable animal image buttons
+- Score display in top-right
+- iOS app icon with custom title shown on device home screen
 
 ---
 
