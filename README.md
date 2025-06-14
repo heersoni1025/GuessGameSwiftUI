@@ -63,7 +63,7 @@ This app was developed independently for personal learning and exploration of Sw
 It is **not affiliated with any academic coursework**.
 
 The initial structure and concept were inspired by a Udemy course from **Fullstacktuts LLC**.  
-While the project followed video guidance, I wrote the code myself and made several modifications to improve gameplay and user experience.
+Several modifications and enhancements were made to improve the functionality and design of the system. 
 
 
 
