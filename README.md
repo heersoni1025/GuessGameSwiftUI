@@ -6,16 +6,17 @@ An interactive iOS app where users guess the correct animal based on fun clues a
 The app includes a custom-designed icon with a red-orange background and a bold question mark, reflecting the mystery and quiz nature of the game.
 
 
-<img width="385" alt="Screenshot 2025-06-14 at 5 37 33 PM" src="https://github.com/user-attachments/assets/f6f420fc-fe6e-4900-8983-f116350c8786" />
+<img width="379" alt="Screenshot 2025-06-14 at 5 40 05 PM" src="https://github.com/user-attachments/assets/53be547a-c207-4b4c-9a8e-2f94513d38f7" />
+
 
 
 <img width="373" alt="Screenshot 2025-06-14 at 5 35 12 PM" src="https://github.com/user-attachments/assets/3d6e0db6-b733-4c66-b27f-ff0dac30ac0c" />
 
+<img width="388" alt="Screenshot 2025-06-14 at 5 41 01 PM" src="https://github.com/user-attachments/assets/4c55b122-21e8-4dd6-9c5e-edfa174df04a" />
 
-<img width="384" alt="Screenshot 2025-06-14 at 5 36 14 PM" src="https://github.com/user-attachments/assets/0905376f-36e2-4947-84bc-02980f1046d9" />
+<img width="384" alt="Screenshot 2025-06-14 at 5 40 36 PM" src="https://github.com/user-attachments/assets/601c7254-ea15-4bef-84ba-90650a4b4514" />
 
 
-<img width="378" alt="Screenshot 2025-06-14 at 5 35 47 PM" src="https://github.com/user-attachments/assets/bbbc35a3-a5d4-4092-b9e5-c6b70ad6ee48" />
 
 
 ---
