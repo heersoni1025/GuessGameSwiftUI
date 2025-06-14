@@ -44,7 +44,7 @@ Choose the correct animal from three options: Dog, Cat, or Fox.
 
 - Clue displayed at the top
 - Three large image buttons with color backgrounds
-- Score tracker in top-right corner
+- Score tracker in the right corner (towards the middle)
 - Fun fact or correction shown after each guess
 
 ---
