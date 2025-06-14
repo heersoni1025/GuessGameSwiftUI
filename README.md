@@ -15,7 +15,6 @@ A fun and interactive iOS app where users guess the correct animal image — Dog
 <img width="350" alt="Screenshot 2025-06-11 at 6 12 18 PM" src="https://github.com/user-attachments/assets/e1f2c7e2-d456-4dc5-9e79-2fcb2940581a" />
 
 
-
 ---
 
 ## 🚀 Features
