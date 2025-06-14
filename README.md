@@ -16,7 +16,8 @@ The app includes a custom-designed icon with a red-orange background and a bold 
 
 <img width="374" alt="Screenshot 2025-06-14 at 5 42 40 PM" src="https://github.com/user-attachments/assets/ce8ecb26-42ce-4371-87cd-3767a3bf088f" />
 
-<img width="402" alt="Screenshot 2025-06-14 at 5 43 08 PM" src="https://github.com/user-attachments/assets/e02f8efd-e0f2-48ee-96f9-377bbe6a4e38" />
+
+<img width="386" alt="Screenshot 2025-06-14 at 5 44 01 PM" src="https://github.com/user-attachments/assets/a4dd0b54-4571-4a35-b046-c0b3aab661f3" />
 
 
 
