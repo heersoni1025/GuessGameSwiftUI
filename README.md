@@ -62,6 +62,7 @@ Choose the correct animal from three options: Dog, Cat, or Fox.
 This app was developed independently for personal learning and exploration of SwiftUI.  
 It is **not affiliated with any academic coursework**.
 
+
 The initial structure and concept were inspired by a Udemy course from **Fullstacktuts LLC**.  
 Several modifications and enhancements were made to improve the functionality and design of the system. 
 
